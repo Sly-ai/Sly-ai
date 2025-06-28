@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hey there!
+I'm Ebenezer — a certified Product Manager currently diving deep into server-side sorcery through the ALX Backend Engineering program 🧪🖥️.
 
-<!--
-**Sly-ai/Sly-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Over the last decade, I’ve led some pretty cool digital products in fintech, FMCG, and recruitment spaces — from launching a B2B platform at HEINEKEN Ethiopia 🍺 to building an invoice discounting system for SMEs 🌾. Now, I’m channeling that energy into enriching my server side skills, writing clean and efficient code as well as building systems that scale.
 
-Here are some ideas to get you started:
+🚀 Check out some of my recent experiments and pet projects here: github.com/Sly-ai
+Highlights include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧬 HealBloc: a proof-of-concept for a blockchain-powered universal medical records system
+
+🛠️ Python, SQL, and shell projects from my ALX journey
+
+🧪 Constant tinkering, learning, and leveling up
+
+When I’m not coding or planning my next roadmap, I’m probably sipping buna ☕, geeking out over design systems, or mapping out user journeys on a Miro board.
+
+Let’s build something amazing! 💡✨
